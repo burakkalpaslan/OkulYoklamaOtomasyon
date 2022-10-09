@@ -1,0 +1,59 @@
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CopyComplete
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Source\Repos\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.AssemblyReference.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CopyComplete
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.csproj.CopyComplete
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OverloadTeam.EducationSytems.DATA\obj\Debug\OverloadTeam.EducationSytems.DATA.pdb

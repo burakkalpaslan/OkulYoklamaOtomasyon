@@ -1,0 +1,257 @@
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitimEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitmenForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.Form1.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.GenelRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KoordinatorForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoklamaEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoneticiForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.pdb
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll.config
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitimEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitmenForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.Form1.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.GenelRaporForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KoordinatorForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciEkleForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciGuncelleSilForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciEkleForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciGuncelleSilForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifRaporForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeRaporForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoklamaEkleForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoneticiForm.resources
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\bilge.adam\Desktop\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll.config
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitimEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitmenForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.Form1.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.GenelRaporForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KoordinatorForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciEkleForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciGuncelleSilForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciEkleForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciGuncelleSilForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifRaporForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeEkleGuncelleSilForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeRaporForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoklamaEkleForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoneticiForm.resources
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitimEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitmenForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.Form1.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.GenelRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KoordinatorForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeEkleGuncelleSilForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeRaporForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoklamaEkleForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoneticiForm.resources
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Mustafa\Downloads\Education-Sytems (1)\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.ResolveComReference.cache
+C:\Users\bilge.adam\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.ResolveComReference.cache
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.manifest
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.application
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe.manifest
+C:\Users\Mustafa\Downloads\Education-Sytems\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.application
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe.manifest
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.application
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.pdb
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DAL.dll.config
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.pdb
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\OverloadTeam.EducationSytems.DATA.dll.config
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\PdfSharp.Charting.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Buffers.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Drawing.Common.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Memory.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.ResolveComReference.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitimEkleGuncelleSilForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.EgitmenForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.Form1.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.GenelRaporForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KoordinatorForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciEkleForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.KullaniciGuncelleSilForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciEkleForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.OgrenciGuncelleSilForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifEkleGuncelleSilForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SinifRaporForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeEkleGuncelleSilForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.SubeRaporForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoklamaEkleForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.YoneticiForm.resources
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe.manifest
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.application
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OverloadTeam.EducationSytems.WindowsFormUI.csproj.CopyComplete
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\90536\Desktop\GitHub Projects\Education-Sytems\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
